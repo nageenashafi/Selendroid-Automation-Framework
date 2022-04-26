@@ -1,0 +1,8 @@
+SelendroidApp\AutomationFramework\PageModels\ConfirmationPageModel.class
+Resources\Listeners.class
+SelendroidApp\AutomationFramework\PageModels\HomePageModel.class
+Resources\ExtentReporterNG.class
+SelendroidApp\AutomationFramework\PageModels\ChromeLogoPageModel.class
+SelendroidApp\AutomationFramework\PageModels\UserDetailsPageModel.class
+SelendroidApp\AutomationFramework\LaunchApp.class
+SelendroidApp\AutomationFramework\PageModels\RegisterUserModel.class
